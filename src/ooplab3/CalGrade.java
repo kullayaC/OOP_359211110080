@@ -34,13 +34,6 @@ public class CalGrade {
             else if (score < 69) System.out.println("Your grade is C");
             else if (score < 79) System.out.println("Your grade is B");
             else System.out.println("Your grade is A");
-
-
-            if (score < 49) System.out.println("Your grade is F");
-            else if (score < 59) System.out.println("Your grade is D");
-            else if (score < 69) System.out.println("Your grade is C");
-            else if (score < 79) System.out.println("Your grade is B");
-            else System.out.println("Your grade is A");
             break;
 
 
