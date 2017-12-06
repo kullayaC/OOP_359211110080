@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ae14472-f547-44da-b2ca-2885c30688ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" afterPath="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,8 +105,8 @@
       <file leaf-file-name="TestDoWhileLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -141,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/ooplab3/TestLoopFor.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/CalGrade.java" />
         <option value="$PROJECT_DIR$/src/ooplab3/TestWhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java" />
       </list>
     </option>
   </component>
@@ -453,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511927178294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TestingWhileLoop">
+      <created>1512528185807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512528185807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +504,8 @@
     <MESSAGE value="Testing Condition" />
     <MESSAGE value="Testing CalGrade" />
     <MESSAGE value="Testing Switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing Switch" />
+    <MESSAGE value="TestingWhileLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestingWhileLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -723,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab3/TestDoWhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
