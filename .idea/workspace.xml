@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ae14472-f547-44da-b2ca-2885c30688ff" name="Default" comment="sortingArray">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/testarray1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/sortingArray.java" afterPath="$PROJECT_DIR$/src/ooplab5/sortingArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
       <file leaf-file-name="sortingArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab5/sortingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testarray1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab5/testarray1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/ooplab5/Array2D.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/TestArrayList.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/sortingArray.java" />
+        <option value="$PROJECT_DIR$/src/ooplab5/testarray1.java" />
       </list>
     </option>
   </component>
@@ -104,6 +115,12 @@
               <item name="OOP_359211110080" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_359211110080" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP_359211110080" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_359211110080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -441,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513138074870</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="sortingArray">
+      <created>1513735014970</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1513735014970</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -494,7 +518,8 @@
     <MESSAGE value="OperatorInArray" />
     <MESSAGE value="Array2D" />
     <MESSAGE value="TestArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestArrayList" />
+    <MESSAGE value="sortingArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="sortingArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -849,10 +874,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab5/testarray1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab5/sortingArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
