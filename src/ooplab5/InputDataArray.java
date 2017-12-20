@@ -15,8 +15,6 @@ public class InputDataArray {
         showData(number,number.length);
         summation(number,number.length);
 
-
-
     }//main
 
     private static void summation(int[] number, int length) {

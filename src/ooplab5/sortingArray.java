@@ -61,7 +61,7 @@ public class sortingArray {
     }//findMaxData
 
     private static void showData(int[] number, int length) {
-        System.out.print("Data in array: ");
+        System.out.println("Data in array: ");
         for(int i=0;i<length;i++){
             System.out.print(number[i]+" ");
         }
