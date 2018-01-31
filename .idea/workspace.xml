@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae14472-f547-44da-b2ca-2885c30688ff" name="Default" comment="Inheritance:employee">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap8/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap8/PetApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap8/dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplap8/pet.java" />
+    <list default="true" id="2ae14472-f547-44da-b2ca-2885c30688ff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap8/Person.java" afterPath="$PROJECT_DIR$/src/ooplap8/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap8/PersonApp.java" afterPath="$PROJECT_DIR$/src/ooplap8/PersonApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplap8/Student.java" afterPath="$PROJECT_DIR$/src/ooplap8/Student.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -684,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517366884563</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Inheritance:employee">
+      <created>1517370764726</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517370764726</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -746,7 +746,8 @@
     <MESSAGE value="Inheritance:Person" />
     <MESSAGE value="Inheritance:Student" />
     <MESSAGE value="Inheritance:PersonApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance:PersonApp" />
+    <MESSAGE value="Inheritance:employee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance:employee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
