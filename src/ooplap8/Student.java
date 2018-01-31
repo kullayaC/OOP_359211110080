@@ -1,6 +1,5 @@
 package ooplap8;
 
-import java.util.Date;
 //student is Person
 //Student is sub=class of person class
 //Person is super-class
@@ -10,7 +9,7 @@ public class Student extends Person {
     private String program;
 
     public Student(String name, String gender,
-                   Date dateofBirth, int age,
+                   String dateofBirth, int age,
                    String id, String program) {
         super(name, gender, dateofBirth, age);
         this.id=id;
