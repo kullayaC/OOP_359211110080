@@ -15,6 +15,7 @@ public class Student extends Person {
         this.id=id;
         this.program=program;
     }
+
     //toString()
 
     @Override
@@ -25,7 +26,7 @@ public class Student extends Person {
                 "} " + super.toString();
     }
 
-    //getter and setter mothod
+    //getter and setter mathod
 
     public String getId() {
         return id;

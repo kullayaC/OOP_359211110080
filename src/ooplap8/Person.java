@@ -5,9 +5,8 @@ public class Person {
     private String gender;
     private String dateofBirth;
     private  int age;
+
     //constructor
-
-
     public Person(String name, String gender, String dateofBirth, int age) {
         this.name = name;
         this.gender = gender;
