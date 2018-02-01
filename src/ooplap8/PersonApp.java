@@ -6,6 +6,7 @@ public class PersonApp {
         System.out.println(student.toString());
 // Employee object
         Employee employee = new Employee("girl","female","20/14/1996", 21, "secretary",10000);
+        System.out.println(employee.toString());
 
     }//main
 }//class
