@@ -6,6 +6,7 @@ public class SuperCar {
     private String enginesize;
     private String maxspeed;
     private String origin;
+
     public SuperCar(){}
     public SuperCar(String b,String c, String e, String m,String o){
         this.brand=b;
@@ -15,8 +16,8 @@ public class SuperCar {
         this.origin=o;
     }
 
-    @Override
-    public String toString() {
+
+    public String getSuperCarInfo () {
         return "SuperCar{" +
                 "brand='" + brand + '\'' +
                 ", color='" + color + '\'' +
