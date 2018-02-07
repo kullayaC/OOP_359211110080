@@ -769,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517973486950</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Access control : Person">
+      <created>1517973552797</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1517973552797</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -808,7 +815,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing Condition" />
     <MESSAGE value="Testing CalGrade" />
     <MESSAGE value="Testing Switch" />
     <MESSAGE value="TestingWhileLoop" />
@@ -833,7 +839,8 @@
     <MESSAGE value="class and Object: mySuperCar" />
     <MESSAGE value="Access control : protect,default" />
     <MESSAGE value="Access control : Car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Access control : Car" />
+    <MESSAGE value="Access control : Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Access control : Person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
