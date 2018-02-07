@@ -32,10 +32,6 @@ public class Person {
         return personID;
     }
 
-    public void setPersonID(String personID) {
-        this.personID = personID;
-    }
-
     public String getName() {
         return name;
     }
