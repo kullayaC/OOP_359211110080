@@ -1,6 +1,7 @@
 package ooplap8;
 
 public abstract class pet {
+    String msg="Hello";
     private  String name;
     private  int age;
     //constructor
@@ -9,7 +10,7 @@ public abstract class pet {
         this.age=age;
     }
     //abstract method
-    public abstract void makeNoise();
+    protected abstract void makeNoise();
     //toString()
 
     @Override
